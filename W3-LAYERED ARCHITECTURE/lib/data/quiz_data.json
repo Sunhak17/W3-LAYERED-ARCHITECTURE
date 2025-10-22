@@ -1,0 +1,56 @@
+{
+  "id": "933e60e8-7e25-4c19-a5d7-ad272888756b",
+  "questions": [
+    {
+      "id": "77602578-7325-4983-8965-97c47a30b06c",
+      "title": "Capital of France?",
+      "choices": [
+        "Paris",
+        "London",
+        "Rome"
+      ],
+      "goodChoice": "Paris",
+      "points": 10
+    },
+    {
+      "id": "8a4456b4-0ede-40a5-b068-b0b663ebb294",
+      "title": "2 + 2 = ?",
+      "choices": [
+        "2",
+        "4",
+        "5"
+      ],
+      "goodChoice": "4",
+      "points": 50
+    }
+  ],
+  "answers": [
+    {
+      "id": "0e3f1174-0065-4476-95a2-0c0dc6d73049",
+      "questionId": "77602578-7325-4983-8965-97c47a30b06c",
+      "answerchoice": "Pairs"
+    },
+    {
+      "id": "fb464723-f7da-4f12-8a52-481e58028ec9",
+      "questionId": "8a4456b4-0ede-40a5-b068-b0b663ebb294",
+      "answerchoice": "4"
+    }
+  ],
+  "players": [
+    {
+      "name": "Player1",
+      "scorePercentage": 100,
+      "scorePoint": 60
+    },
+    {
+      "name": "Player2",
+      "scorePercentage": 100,
+      "scorePoint": 60
+    },
+    {
+      "name": "Player3",
+      "scorePercentage": 50,
+      "scorePoint": 50
+    }
+  ]
+}
